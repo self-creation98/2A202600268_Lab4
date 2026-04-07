@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Direct Answer (Không cần tool)",
+        "input": "Xin chào! Tôi đang muốn đi du lịch nhưng chưa biết đi đâu."
+    },
+    {
+        "id": 2,
+        "name": "Single Tool Call (Tra cứu chuyến bay)",
+        "input": "Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng"
+    },
+    {
+        "id": 3,
+        "name": "Multi-Step Tool Chaining (Hành trình phức tạp)",
+        "input": "Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!"
+    },
+    {
+        "id": 4,
+        "name": "Missing Info (Hỏi lại thông tin)",
+        "input": "Tôi muốn đặt khách sạn"
+    },
+    {
+        "id": 5,
+        "name": "Guardrail (Từ chối ngoài phạm vi)",
+        "input": "Giải giúp tôi bài tập lập trình Python về linked list"
+    },
+    {
+        "id": 6,
+        "name": "Reverse Flight Lookup",
+        "input": "Tôi đang ở Phú Quốc và muốn về lại Hà Nội, tìm giúp tôi chuyến bay rẻ nhất."
+    },
+    {
+        "id": 7,
+        "name": "Extreme Low Budget",
+        "input": "Tôi muốn đi Đà Nẵng từ HCM, tổng ngân sách chỉ có 800k cho cả vé máy bay và khách sạn 1 đêm."
+    },
+    {
+        "id": 8,
+        "name": "Quality Priority (Rating)",
+        "input": "Tìm cho tôi khách sạn tốt nhất ở Quận 1, Hồ Chí Minh. Tôi không quan tâm về giá, chỉ cần rating cao nhất."
+    },
+    {
+        "id": 9,
+        "name": "Missing Destination",
+        "input": "Tôi muốn đi du lịch Nha Trang, tư vấn giúp tôi vé máy bay và khách sạn."
+    },
+    {
+        "id": 10,
+        "name": "Complex Expenses",
+        "input": "Tính giúp tôi xem còn dư bao nhiêu: Tổng ngân sách 10 triệu, đã chi: vé máy bay 2tr2, khách sạn 1tr5, ăn uống 2tr, tiền taxi 500k."
+    }
+]
